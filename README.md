@@ -1,2 +1,2 @@
-# pz11-main
-Practical work 11
+Hello from GitHub!
+This line was added remotely.
